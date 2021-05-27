@@ -1,5 +1,3 @@
-<h3 align="center">Hi! My name is Iryn Loza. <br> I'm a Software Engineer.</h3>
-
 Software Engineer, with solid technical recruitment background, who has always been passionate about technologies and innovations, inspired by world changing projects, smart people, and the power of engineering.
 
 Dog lover, Japan culture appreciator, obsessed with board games and puzzles.
