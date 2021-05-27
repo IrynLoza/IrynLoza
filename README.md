@@ -1,4 +1,4 @@
-<h5 align="center">Hi! My name is Iryn Loza. <br> I'm a Software Engineer.</h1>
+<h3 align="center">Hi! My name is Iryn Loza. <br> I'm a Software Engineer.</h3>
 
 Software Engineer, with solid technical recruitment background, who has always been passionate about technologies and innovations, inspired by world changing projects, smart people, and the power of engineering.
 
@@ -20,11 +20,11 @@ Visit my [portfolio](https://www.irynloza.me/) to check my projects out.
 
 ### 💬 Contacts 
 <a href="mailto:irynaloza@gmail.com">
-  <img align="left" alt="" width="22px" src="https://img.shields.io/badge/-gmail-grey?style=for-the-badge&logo=gmail" />
+  <img align="left" alt="" src="https://img.shields.io/badge/-gmail-grey?style=for-the-badge&logo=gmail" />
 </a>
 
 <a href="https://www.linkedin.com/in/iryn-loza-engineer/">
-  <img align="left" alt="" width="22px" src="https://img.shields.io/badge/-linkedin-grey?style=for-the-badge&logo=linkedin" />
+  <img align="left" alt="" src="https://img.shields.io/badge/-linkedin-grey?style=for-the-badge&logo=linkedin" />
 </a>
 
 
