@@ -1,4 +1,4 @@
-Software Engineer, with solid technical recruitment background, who has always been passionate about technologies and innovations, inspired by world changing projects, smart people, and the power of engineering.
+**Software Engineer**, with solid technical recruitment background, who has always been passionate about technologies and innovations, inspired by world changing projects, smart people, and the power of engineering.
 
 Dog lover, Japan culture appreciator, obsessed with board games and puzzles.
 
@@ -12,8 +12,8 @@ Visit my [portfolio](https://www.irynloza.me/) to check my projects out.
 ![Flask](https://img.shields.io/badge/-Flask-grey?style=for-the-badge&logo=Flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-grey?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-grey?style=for-the-badge&logo=css3)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=for-the-badge&logo=PostgreSQL)
-![Jest](https://img.shields.io/badge/-Jest-grey?style=for-the-badge&logo=Jest)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=for-the-badge&logo=PostgreSQL&logoColor=blue)
+![Jest](https://img.shields.io/badge/-Jest-grey?style=for-the-badge&logo=Jest&logoColor=red)
 ![AWS](https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=AWS)
 
 ### 💬 Contacts 
