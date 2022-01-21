@@ -5,6 +5,9 @@ Dog lover, Japan culture appreciator, obsessed with board games and puzzles.
 Visit my [portfolio](https://www.irynloza.me/) to check my projects out.
 
 ### 💻 Technologies 
+![Ruby](https://img.shields.io/badge/-Ruby-grey?style=for-the-badge&logo=Ruby&logoColor=red)
+![Rails](https://img.shields.io/badge/-Rails-grey?style=for-the-badge&logo=RubyonRails&logoColor=red)
+![Ruby](https://img.shields.io/badge/-Ruby-grey?style=for-the-badge&logo=Ruby&logoColor=red)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Node.js-grey?style=for-the-badge&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=React)
