@@ -1,6 +1,6 @@
 **Software Engineer**, with solid technical recruitment background, who has always been passionate about technologies and innovations, inspired by world changing projects, smart people, and the power of engineering.
 
-Dog lover, Japan culture appreciator, obsessed with board games and puzzles.
+Dog lover, archer, Japanese culture enthusiast, obsessed with travel and puzzles.
 
 Visit my [portfolio](https://www.irynloza.me/) to check my projects out.
 
